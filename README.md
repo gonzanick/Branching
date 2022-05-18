@@ -1,5 +1,6 @@
 ## Git Command Cheat Sheet
 
+Overview and cheat sheet of git commands
 
 ## Basic Commands
 
@@ -10,4 +11,4 @@
 
 ### Information Commands
 * 'git status' - show status of local working tree
-* 
+*
