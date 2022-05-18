@@ -12,5 +12,16 @@ Several categories of commands
 
 ### Information Commands
 * 'git status' - show status of local working tree
+
+*
+* 'git config -l' - list local repo configuration
+
+
+### Branching Commands
+* 'git branch' - list local branches
+* 'git branch branchName' - create local branch
+* 'git checkout branchName' - checkout local branch 'branchName'
+
 * 'git log' - list commit history of current branch
 * 'git log --online' - compact listing of commit history
+
