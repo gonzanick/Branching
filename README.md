@@ -11,4 +11,5 @@ Overview and cheat sheet of git commands
 
 ### Information Commands
 * 'git status' - show status of local working tree
-*
+* 'git log' - list commit history of current branch
+* 'git log --online' - compact listing of commit history
