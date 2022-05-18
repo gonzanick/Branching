@@ -10,4 +10,10 @@
 
 ### Information Commands
 * 'git status' - show status of local working tree
-* 
+*
+
+
+### Branching Commands
+* 'git branch' - list local branches
+'git bracnh branchName' - create local branch
+* 'git checkout branchName' - checkout local branch 'branchName'
